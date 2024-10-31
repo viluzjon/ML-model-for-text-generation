@@ -1,0 +1,13 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+
+# Files generated during runtime
+generated_text.txt
+harris-trump-transcript.txt
