@@ -2,6 +2,12 @@
 
 This model generates vaguely coherent text based on a transcript from the presidential debate between K. Harris and D. Trump that took place on September 11, 2024. 
 The transcript is processed using a trigram model to create sentences. The code is designed to run in Google Colab.
+The input text file can be swapped with a file of your choice, in which case:
+- the upload link needs to be updated (line 17)
+- the txt file name needs to be updated (lines 16, 31, 90)
+*Works wonders with religious sermons*
+
+Let this be a test of absurd.
 
 # Usage
 
